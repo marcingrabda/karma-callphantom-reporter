@@ -1,0 +1,29 @@
+{
+  "name": "karma-callphantom-reporter",
+  "version": "0.1.0",
+  "description": "A Karma plugin reporting Jasmine specs to PhantomJS",
+  "main": "./src/index.js",
+  "keywords": [
+    "karma-plugin",
+    "karma-reporter"
+  ],
+  "repository": {
+    "url": "https://github.com/marcin.grabda/karma-callphantom-reporter"
+  },
+  "author": "",
+  "contributors": [
+  	{
+      "name": "Marcin Grabda",
+      "url": "https://github.com/marcin.grabda"
+   	}
+   ],
+  "dependencies": {
+  	"karma-jasmine": "^1.0.0"
+  },
+  "peerDependencies": {
+    "karma": ">=0.9"
+  },
+  "license": "MIT",
+  "devDependencies": {},
+  "readmeFilename": "README.md"
+}
